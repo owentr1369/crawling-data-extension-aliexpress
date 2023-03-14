@@ -1,0 +1,11 @@
+{
+    "name": "Aliexpress Crawl Reviews",
+    "version": "1.0.0",
+    "description": "Get product reviews from Aliexpress website.",
+    "manifest_version": 3,
+    "author": "Tam Tran",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Aliexpress Crawl Reviews"
+    }
+}
